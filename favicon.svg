@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="12" fill="#ffffff"/>
+  <g fill="#0000c2" font-family="Inter, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial"
+     font-weight="800" text-anchor="middle">
+    <text x="50%" y="30" font-size="24" lengthAdjust="spacingAndGlyphs" textLength="40">ВМ</text>
+  </g>
+  <g fill="#940000" font-family="Inter, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial"
+     font-weight="800" text-anchor="middle">
+    <text x="50%" y="52" font-size="24" lengthAdjust="spacingAndGlyphs" textLength="40">31</text>
+  </g>
+</svg>
