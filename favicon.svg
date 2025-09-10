@@ -2,10 +2,10 @@
   <rect width="64" height="64" rx="12" fill="#ffffff"/>
   <g fill="#0000c2" font-family="Inter, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial"
      font-weight="800" text-anchor="middle">
-    <text x="50%" y="30" font-size="24" lengthAdjust="spacingAndGlyphs" textLength="40">ВМ</text>
+    <text x="50%" y="30" font-size="35" lengthAdjust="spacingAndGlyphs" textLength="55">ВМ</text>
   </g>
   <g fill="#940000" font-family="Inter, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial"
      font-weight="800" text-anchor="middle">
-    <text x="50%" y="52" font-size="24" lengthAdjust="spacingAndGlyphs" textLength="40">31</text>
+    <text x="50%" y="60" font-size="35" lengthAdjust="spacingAndGlyphs" textLength="40">31</text>
   </g>
 </svg>
