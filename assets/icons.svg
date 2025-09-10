@@ -301,5 +301,10 @@
      id="path1638"
      style="stroke-width:1" />
   </symbol>
-<symbol id="i-blambex" viewBox="0 0 72 72"> <path d="M0 0H72V72H0Z" fill="currentColor"/> </symbol>
+<symbol id="blambex" viewBox="0 0 72 72">
+  <image x="0" y="0" width="72" height="72"
+         href="assets/file_type_yandex_icon_130054.ico"
+         xlink:href="assets/file_type_yandex_icon_130054.ico"
+         preserveAspectRatio="xMidYMid meet" />
+</symbol>
 </svg>
